@@ -1,0 +1,57 @@
+ #intro
+ {background-color:lightgreen ;
+ margin:10% 15% 10% 15% ;
+ 
+  }
+  
+ .city{
+ background-color: purple;
+ 
+ 
+ }
+ body{
+ background-image:url(images-5.jpeg);
+ background-size:cover;  
+ background-position:Center ;}
+ 
+ .half-width{
+ width: 80%;
+ float: right;
+ padding: 25%;
+ }
+ .full-width{
+ width:80%;
+ float: right;
+ 
+ }
+ 
+ .button{
+ color:white ;
+ background-color: green;
+ padding:10px 10px 10px 10px;
+ border-radius: 5%;
+ text-decoration: none ;
+ }
+ .container
+ {
+ padding-left:5%;
+ display:inline-block;
+ }
+ 
+ .img-side{
+ padding: 5%;
+ display:inline-block ;
+ }
+ 
+ .experience{
+ padding:30px ;
+ margin: 30px;
+ background-color: rgb(238, 255, 251);
+ border-radius:10px ;
+ 
+ }
+ 
+ .experience-item{
+ padding: 10%;
+ border-left:1px solid rbga(137, 130, 247,2) ;
+ }
